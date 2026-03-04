@@ -9,7 +9,7 @@ A simple calculator developed in Java using Object-Oriented Programming (OOP) co
 
 ## 🗂️ Project Structure
 ```
-pooJava-calculator/
+oopJava-calculator/
 ├── src/
 │   ├── calculus/
 │   │   └── Calculus.java
